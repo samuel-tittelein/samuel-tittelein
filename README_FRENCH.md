@@ -10,7 +10,7 @@ _- Oscar Wilde -_
 
 ---
 
-[english](./README_ENGLISH.md)
+[<img src="https://www.svgrepo.com/show/248821/united-kingdom-uk.svg" alt="english" width="50"/>](./README_ENGLISH.md)
 
 # Formations
 
