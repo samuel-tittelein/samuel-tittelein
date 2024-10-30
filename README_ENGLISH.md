@@ -1,11 +1,11 @@
-[<img src="https://www.svgrepo.com/show/405485/flag-for-flag-france.svg" alt="english" width="40"/>](./README_FRENCH.md)
+[<img src="https://www.svgrepo.com/show/405485/flag-for-flag-france.svg" alt="english" width="40"/>](./README.md)
 
 # Samuel TITTELEIN
 
 > Loving oneself  
-> is the beginning of a lifelong romance.  
+> is the beginning of a lifelong romance.
 
-*- Oscar Wilde -*
+_- Oscar Wilde -_
 
 # Education
 
@@ -15,23 +15,24 @@
 # Activities and Hobbies
 
 - ⛺ I have been a scout with the **Scouts and Guides of France** (SGDF) since 2016.  
-*Now a scout leader, I supervise a group of about twenty young people (ages 11 to 14) on Saturdays, and in the summer, I go on multi-week camps.*
+  _Now a scout leader, I supervise a group of about twenty young people (ages 11 to 14) on Saturdays, and in the summer, I go on multi-week camps._
 
 - 👔 I am pursuing my **BAFA** (Youth Work Qualification). I am certified to organize activities for groups of children.  
-*I will soon be qualified to direct camps.*
+  _I will soon be qualified to direct camps._
 
 - 🚴 I am a member of the **Association Droit au Vélo** (Right to Bike Association).  
-*Cycling is my preferred mode of transportation.*
+  _Cycling is my preferred mode of transportation._
 
 - 🤹‍♂️ I am a member of the **Fédération Francaise de Cirque** (French Federation of Circus Schools) and belong to a circus troupe.  
-*I can juggle with 5 balls.*
+  _I can juggle with 5 balls._
 
 - 🌱 I am a facilitator for **[the Climate Fresk](https://climatefresk.org/world/)**.  
-*I am passionate about environmental issues.*
+  _I am passionate about environmental issues._
 
 - ⛵ I hold level 3 certification from the **Fédération Francaise de Voile** (French Sailing Federation).
 
 - 🖌️ I took **drawing classes** for 8 years.
 
 # Projects
+
 work in progress
