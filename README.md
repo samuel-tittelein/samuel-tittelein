@@ -1,36 +1,37 @@
 # Samuel TITTELEIN
 
-> S'aimer soi-même  
-> est le début d'une histoire d'amour  
-> qui durera toute une vie
+> Loving oneself  
+> is the beginning of a lifelong romance.  
 
 *- Oscar Wilde -*
 
-# Formations
+# Education
 
-- Actuellement, je suis en 2ème année de **BUT Informatique** à l'IUT de Lens.
-- J'ai obtenu mon **baccalauréat général** en 2023 au lycée Gambetta Carnot d'Arras, avec les spécialités **Mathématiques**, 🖥️ **NSI** (Numérique et Sciences de l'Informatique) et 🖌️ **Arts Plastiques**.
+- I am currently in my 2nd year of a **Bachelor of Technology in Computer Science** at the IUT of Lens.
+- I graduated with a **general baccalaureate** in 2023 from Gambetta Carnot High School in Arras, with specializations in **Mathematics**, 🖥️ **Computer Science** (NSI - Digital and Computer Science), and 🖌️ **Visual Arts**.
 
-# Activités et Loisirs
+# Activities and Hobbies
 
-- ⛺ Je suis scout au sein des **Scouts et Guides de France** (SGDF) depuis 2016.  
-*Désormais chef scout, j'encadre une vingtaine de jeunes (de 8 à 11 ans) les samedis, et l'été je pars plusieurs semaines en camp.*
+- ⛺ I have been a scout with the **Scouts and Guides of France** (SGDF) since 2016.  
+*Now a scout leader, I supervise a group of about twenty young people (ages 11 to 14) on Saturdays, and in the summer, I go on multi-week camps.*
 
-- 👔 Je suis en cursus **BAFA**. Je suis donc qualifié pour organiser des activités avec des groupes d’enfants.  
-*Je vais bientôt obtenir la qualification pour la direction de camp.*
+- 👔 I am pursuing my **BAFA** (Youth Work Qualification). I am certified to organize activities for groups of children.  
+*I will soon be qualified to direct camps.*
 
-- 🚴 Je suis adhérent à l'Association Droit Au **Vélo** (ADAV).  
-*Le vélo est mon moyen de déplacement privilégié.*
+- 🚴 I am a member of the **Association Droit au Vélo** (Right to Bike Association).  
+*Cycling is my preferred mode of transportation.*
 
-- 🤹‍♂️ Je suis licencié de la Fédération Française des Écoles de **Cirque** (FFEC). Je suis également adhérent d'une troupe de cirque.  
-*Je sais jongler avec 5 balles.*
+- 🤹‍♂️ I am a member of the **Fédération Francaise de Cirque** (French Federation of Circus Schools) and belong to a circus troupe.  
+*I can juggle with 5 balls.*
 
-- 🌱 Je suis animateur de **La Fresque du Climat**.  
-*Je suis sensible à la cause écologique.*
+- 🌱 I am a facilitator for **[the Climate Fresque](https://climatefresk.org/world/)**.  
+*I am passionate about environmental issues.*
 
-- ⛵ J'ai le niveau 3 de la Fédération Française de **Voile** (FFV).
+- ⛵ I hold level 3 certification from the **Fédération Francaise de Voile** (French Sailing Federation).
 
-- 🖌️ J’ai suivi des cours de **dessin** pendant 8 ans.
+- 🖌️ I took **drawing classes** for 8 years.
 
-# Projets
+# Projects
 work in progress
+
+Let me know if you'd like any other changes!
