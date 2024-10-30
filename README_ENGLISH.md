@@ -1,3 +1,5 @@
+[<img src="https://www.svgrepo.com/show/405485/flag-for-flag-france.svg" alt="english" width="40"/>](./README_FRENCH.md)
+
 # Samuel TITTELEIN
 
 > Loving oneself  
@@ -8,7 +10,7 @@
 # Education
 
 - I am currently in my 2nd year of a **Bachelor of Technology in Computer Science** at the IUT of Lens.
-- I graduated with a **general baccalaureate** in 2023 from Gambetta Carnot High School in Arras, with specializations in **Mathematics**, 🖥️ **Computer Science** (NSI - Digital and Computer Science), and 🖌️ **Visual Arts**.
+- I graduated with a **general baccalaureate** in 2023 from Gambetta Carnot High School in Arras, with specializations in **Mathematics**, 🖥️ **Computer Science** (NSI - Digital and Computer Science), and 🖌️ **Arts**.
 
 # Activities and Hobbies
 
@@ -33,5 +35,3 @@
 
 # Projects
 work in progress
-
-Let me know if you'd like any other changes!
