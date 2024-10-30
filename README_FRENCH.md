@@ -6,6 +6,8 @@
 
 *- Oscar Wilde -*
 
+[english](./README_ENGLISH.md)
+
 # Formations
 
 - Actuellement, je suis en 2ème année de **BUT Informatique** à l'IUT de Lens.
