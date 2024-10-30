@@ -24,7 +24,7 @@
 - 🤹‍♂️ I am a member of the **Fédération Francaise de Cirque** (French Federation of Circus Schools) and belong to a circus troupe.  
 *I can juggle with 5 balls.*
 
-- 🌱 I am a facilitator for **[the Climate Fresque](https://climatefresk.org/world/)**.  
+- 🌱 I am a facilitator for **[the Climate Fresk](https://climatefresk.org/world/)**.  
 *I am passionate about environmental issues.*
 
 - ⛵ I hold level 3 certification from the **Fédération Francaise de Voile** (French Sailing Federation).
