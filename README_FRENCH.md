@@ -1,3 +1,4 @@
+[<img src="https://www.svgrepo.com/show/248821/united-kingdom-uk.svg" alt="english" width="40"/>](./README_ENGLISH.md)
 # Samuel TITTELEIN
 
 > S'aimer soi-même  
@@ -6,12 +7,14 @@
 
 *- Oscar Wilde -*
 
-[<img src="https://www.svgrepo.com/show/248821/united-kingdom-uk.svg" alt="english" width="50"/>](./README_ENGLISH.md)
+---
 
 # Formations
 
 - Actuellement, je suis en 2ème année de **BUT Informatique** à l'IUT de Lens.
 - J'ai obtenu mon **baccalauréat général** en 2023 au lycée Gambetta Carnot d'Arras, avec les spécialités **Mathématiques**, 🖥️ **NSI** (Numérique et Sciences de l'Informatique) et 🖌️ **Arts Plastiques**.
+
+---
 
 # Activités et Loisirs
 
