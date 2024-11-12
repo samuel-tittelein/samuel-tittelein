@@ -42,4 +42,5 @@ _- Oscar Wilde -_
 
 # Projets
 
-work in progress
+![Bomberman gameplay](bomberman.png)
+- Reproduction du jeu [Bomberman](https://github.com/samuel-tittelein/samuel-tittelein/Bomberman) en javaFX dans le cadre de ma formation.
