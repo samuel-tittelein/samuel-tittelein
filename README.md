@@ -1,5 +1,3 @@
-[<img src="https://www.svgrepo.com/show/248821/united-kingdom-uk.svg" alt="english" width="40"/>](./README_ENGLISH.md)
-
 # Samuel TITTELEIN
 
 > S'aimer soi-même  
@@ -14,7 +12,7 @@ _- Oscar Wilde -_
 
 # Formations
 
-- Actuellement, je suis en 2ème année de **BUT Informatique** à l'IUT de Lens.
+- Actuellement, je suis en 3ème année de **BUT Informatique** à l'IUT de Lens.
 - J'ai obtenu mon **baccalauréat général** en 2023 au lycée Gambetta Carnot d'Arras, avec les spécialités **Mathématiques**, 🖥️ **NSI** (Numérique et Sciences de l'Informatique) et 🖌️ **Arts Plastiques**.
 
 ---
@@ -24,8 +22,8 @@ _- Oscar Wilde -_
 - ⛺ Je suis scout au sein des **Scouts et Guides de France** (SGDF) depuis 2016.  
   _Désormais chef scout, j'encadre une vingtaine de jeunes (de 8 à 11 ans) les samedis, et l'été je pars plusieurs semaines en camp._
 
-- 👔 Je suis en cursus **BAFA**. Je suis donc qualifié pour organiser des activités avec des groupes d’enfants.  
-  _Je vais bientôt obtenir la qualification pour la direction de camp._
+- 👔 J'ai le **BAFA** avec un module de direction de camp
+  _J'ai dirigé un camp de 2 semaines_
 
 - 🚴 Je suis adhérent à l'Association Droit Au **Vélo** (ADAV).  
   _Le vélo est mon moyen de déplacement privilégié._
@@ -40,9 +38,5 @@ _- Oscar Wilde -_
 
 - 🖌️ J’ai suivi des cours de **dessin** pendant 8 ans.
 
-# Projets
+[<img src="https://www.svgrepo.com/show/248821/united-kingdom-uk.svg" alt="english" width="40"/> traduire en anglais : ](./README_ENGLISH.md)
 
-- ![Bomberman gameplay](bomberman.png)  
-Reproduction du jeu [Bomberman](https://github.com/samuel-tittelein/samuel-tittelein/Bomberman) en javaFX dans le cadre de ma formation.
-- ...  
-work in progress
