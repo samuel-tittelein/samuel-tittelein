@@ -1,5 +1,3 @@
-[<img src="https://www.svgrepo.com/show/405485/flag-for-flag-france.svg" alt="english" width="40"/>](./README.md)
-
 # Samuel TITTELEIN
 
 > Loving oneself  
@@ -17,8 +15,8 @@ _- Oscar Wilde -_
 - ⛺ I have been a scout with the **Scouts and Guides of France** (SGDF) since 2016.  
   _Now a scout leader, I supervise a group of about twenty young people (ages 11 to 14) on Saturdays, and in the summer, I go on multi-week camps._
 
-- 👔 I am pursuing my **BAFA** (Youth Work Qualification). I am certified to organize activities for groups of children.  
-  _I will soon be qualified to direct camps._
+- 👔 I've the **BAFA** (Youth Work Qualification). I'm qualified to direct camps.
+  _I directed a 2 weeks camp._
 
 - 🚴 I am a member of the **Association Droit au Vélo** (Right to Bike Association).  
   _Cycling is my preferred mode of transportation._
@@ -33,6 +31,4 @@ _- Oscar Wilde -_
 
 - 🖌️ I took **drawing classes** for 8 years.
 
-# Projects
-
-work in progress
+[<img src="https://www.svgrepo.com/show/405485/flag-for-flag-france.svg" alt="english" width="40"/> traduire en francais](./README.md)
