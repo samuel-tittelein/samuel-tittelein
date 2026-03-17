@@ -38,5 +38,5 @@ _- Oscar Wilde -_
 
 - 🖌️ J’ai suivi des cours de **dessin** pendant 8 ans.
 
-[<img src="https://www.svgrepo.com/show/248821/united-kingdom-uk.svg" alt="english" width="40"/> traduire en anglais : ](./README_ENGLISH.md)
+[<img src="https://www.svgrepo.com/show/248821/united-kingdom-uk.svg" alt="english" width="40"/> translate to english](./README_ENGLISH.md)
 
